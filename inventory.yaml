@@ -2,4 +2,4 @@
 192.168.56.102  ansible_python_interpreter=/usr/bin/python3
 
 [fileserver]
-192.168.56.103  ansible_python_interpreter=/usr/bin/python3
+192.168.56.104  ansible_python_interpreter=/usr/bin/python3
